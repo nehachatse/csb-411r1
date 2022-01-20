@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nehachatse.github.io/csb-411r1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://nehachatse.github.io/csb-411r1/static/js/main.663a549d.chunk.js",
+    "main.js.map": "https://nehachatse.github.io/csb-411r1/static/js/main.663a549d.chunk.js.map",
+    "runtime-main.js": "https://nehachatse.github.io/csb-411r1/static/js/runtime-main.abcf5d56.js",
+    "runtime-main.js.map": "https://nehachatse.github.io/csb-411r1/static/js/runtime-main.abcf5d56.js.map",
+    "static/js/2.f2229708.chunk.js": "https://nehachatse.github.io/csb-411r1/static/js/2.f2229708.chunk.js",
+    "static/js/2.f2229708.chunk.js.map": "https://nehachatse.github.io/csb-411r1/static/js/2.f2229708.chunk.js.map",
+    "index.html": "https://nehachatse.github.io/csb-411r1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://nehachatse.github.io/csb-411r1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f2229708.chunk.js.LICENSE.txt": "https://nehachatse.github.io/csb-411r1/static/js/2.f2229708.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abcf5d56.js",
+    "static/js/2.f2229708.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.663a549d.chunk.js"
+  ]
+}
